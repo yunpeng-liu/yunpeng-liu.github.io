@@ -217,7 +217,10 @@
   }
 
   li {
-    white-space: nowrap;
+    // white-space: nowrap;
+    white-space: normal;
+    word-break: break-all;
+    word-wrap: break-word;
   }
 
   a {
