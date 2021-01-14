@@ -8,6 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Test
+Short Bio
 ======
+------
 Hello, world.
+
+Reserch Interests
+======
+------
+* A
+* B
+* TODO
+
+Publications
+======
+------
+
