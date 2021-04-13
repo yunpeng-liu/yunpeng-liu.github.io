@@ -25,3 +25,4 @@ Publications
 
 <!-- - Test [[pdf](/files/paper1.pdf)] -->
 
+- Qi Li, **Yunpeng Liu**, Zhuotao Liu, Peng Zhang, Chunhui Pang: Efficient Forwarding Anomaly Detection in Software-Defined Networks. To appear in IEEE Transactions on Parallel and Distributed Systems (TPDS) 2021. [[DOI](https://doi.org/10.1109/TPDS.2021.3068135)]
